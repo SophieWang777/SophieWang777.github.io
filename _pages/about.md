@@ -52,7 +52,7 @@ If you’re open to communication or collaboration, feel free to add me on WeCha
 
 # 📖 Education
 
-<ul style="list-style-type: disc; padding-left: 1.2em; font-size: 18px;">
+<ul style="list-style-type: disc; padding-left: 1.8em; font-size: 18px;">
 
   <li style="margin-bottom: 2em;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
