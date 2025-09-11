@@ -53,27 +53,30 @@ If you’re open to communication or collaboration, feel free to add me on WeCha
 # 📖 Education
 
 <!-- 教育经历 1：UESTC + UofG -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2em;">
-  <div style="max-width: 80%;">
-    <div style="font-size: 18px; margin-left: 1.5em;"><strong>·</strong> <em>2023.09 - present</em></div>
-    <div style="font-size: 18px; margin-left: 1.5em;">Communication Engineering, Glasgow College, University of Glasgow | UESTC</div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="width: 1.2em; font-size: 24px; line-height: 1.1em; font-weight: bold;">•</div>
+  <div style="flex: 1;">
+    <div style="font-size: 18px;"><em>2023.09 - present</em></div>
+    <div style="font-size: 18px;">Communication Engineering, Glasgow College, University of Glasgow | UESTC</div>
   </div>
-  <div style="display: flex; gap: 8px;">
+  <div style="display: flex; gap: 8px; margin-left: 12px;">
     <img src="/images/UofG_logo.png" alt="UofG Logo" width="42" style="border-radius: 50%;">
     <img src="/images/uestc_logo.PNG" alt="UESTC Logo" width="42" style="border-radius: 50%;">
   </div>
 </div>
 
 <!-- 教育经历 2：Cambridge -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2.5em;">
-  <div style="max-width: 80%;">
-    <div style="font-size: 18px; margin-left: 1.5em;"><strong>·</strong> <em>2025.02</em></div>
-    <div style="font-size: 18px; margin-left: 1.5em;">Department of Computer Science and Technology, Cambridge University</div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 2.5em;">
+  <div style="width: 1.2em; font-size: 22px; line-height: 1.1em; font-weight: bold;">•</div>
+  <div style="flex: 1;">
+    <div style="font-size: 18px;"><em>2025.02</em></div>
+    <div style="font-size: 18px;">Department of Computer Science and Technology, Cambridge University</div>
   </div>
-  <div>
+  <div style="margin-left: 12px;">
     <img src="/images/cambridge_logo.PNG" alt="Cambridge Logo" width="36" style="border-radius: 8px; box-shadow: 0 0 4px rgba(0,0,0,0.15);">
   </div>
 </div>
+
 
 
 # 🎖 Honors and Awards
