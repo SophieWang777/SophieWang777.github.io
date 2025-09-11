@@ -37,6 +37,7 @@
     }
   }
 }
+
 .masthead__menu {
   ul {
     margin: 0;
@@ -51,6 +52,7 @@
   }
   display: none !important;
 }
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;
@@ -71,4 +73,73 @@
       background: transparent !important; /* 确保所有状态下背景都透明 */
     }
   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.masthead__inner-wrap {
+  background: transparent !important;
+}
+
+.masthead__menu {
+  background: transparent !important;
+}
+
+.masthead__menu-item {
+  background: transparent !important;
+}
+
+.masthead__menu-item a {
+  background: transparent !important;
+  color: White !important;
+  font-size: 1.2rem !important;
+}
+
+.masthead__menu-item a:hover {
+  color: rgba(255, 255, 255, 0.25) !important;
+}
+
+.masthead .site-title,
+.masthead .site-subtitle {
+  background: transparent !important;
+  color: white !important;
+}
+
+.greedy-nav {
+  background: transparent !important;
+}
+
+.greedy-nav a {
+  background: transparent !important;
+  color: white !important;
+  font-size: 1.2rem !important;
+}
+
+.greedy-nav a:hover {
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+
+.greedy-nav__toggle {
+  background: transparent !important;
+  color: white !important;
+  font-size: 1.2rem !important;
+}
+
+.page__header {
+  background: transparent !important;
+}
+
+.masthead .container,
+.masthead .wrapper {
+  background: transparent !important;
 }
