@@ -59,8 +59,8 @@ If you’re open to communication or collaboration, feel free to add me on WeCha
     <div style="font-size: 18px;">Communication Engineering, Glasgow College, UESTC & University of Glasgow</div>
   </div>
   <div style="display: flex; gap: 8px;">
-    <img src="/images/uestc_logo.png" alt="UESTC Logo" width="42" style="border-radius: 50%;">
-    <img src="/images/uofg_logo.png" alt="UofG Logo" width="42" style="border-radius: 50%;">
+    <img src="/images/uestc_logo.PNG" alt="UESTC Logo" width="42" style="border-radius: 50%;">
+    <img src="/images/UofG_logo.png" alt="UofG Logo" width="42" style="border-radius: 50%;">
   </div>
 </div>
 
@@ -71,7 +71,7 @@ If you’re open to communication or collaboration, feel free to add me on WeCha
     <div style="font-size: 18px;">Department of Computer Science and Technology, Cambridge University</div>
   </div>
   <div>
-    <img src="/images/cambridge_logo.png" alt="Cambridge Logo" width="42" style="border-radius: 50%;">
+    <img src="/images/cambridge_logo.PNG" alt="Cambridge Logo" width="42" style="border-radius: 50%;">
   </div>
 </div>
 
