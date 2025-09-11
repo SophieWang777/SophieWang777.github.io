@@ -1,74 +1,70 @@
-/* ==========================================================================
-   MASTHEAD
-   ========================================================================== */
-
+/* 主要的导航栏容器 */
 .masthead {
   position: sticky;
   top: 0;
   z-index: 1000;
-  background: rgba(135, 206, 250, 0.2); /* 纯白，35% 透明 */
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-  padding: 0.45em 0; /* 高度提升一半 */
-  font-size: 1.25rem; /* 字体放大 */
+  background: transparent !important;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  box-shadow: none;
+  border-bottom: none;
+  padding: 0.35em 0;
+  font-size: 0.9rem;
+}
 
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: .45em; /* 跟随高度 */
-    font-family: $sans-serif-narrow;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
-    nav {
-      z-index: 10;
-    }
-
-    a {
-      text-decoration: none;
-    }
-  }
+.masthead__inner-wrap {
+  background: transparent !important;
 }
 
 .masthead__menu {
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
-  }
-}
-
-.masthead__menu-home-item {
-  @include breakpoint($medium) {
-    display: block !important;
-  }
-  display: none !important;
+  background: transparent !important;
 }
 
 .masthead__menu-item {
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
-
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
-
-  a {
-    color: #d3d3d3 !important; /* 链接文字浅灰 */
-    font-size: 1.75rem !important;
-    text-decoration: none !important;
-
-    &:hover {
-      color: #e0e0e0 !important; /* 悬停更亮 */
-      text-decoration: underline !important;
-    }
-  }
+  background: transparent !important;
 }
 
+.masthead__menu-item a {
+  background: transparent !important;
+  color: White !important;
+  font-size: 0.9rem !important;
+}
+
+.masthead__menu-item a:hover {
+  color: rgba(255, 255, 255, 0.25) !important;
+}
+
+.masthead .site-title,
+.masthead .site-subtitle {
+  background: transparent !important;
+  color: white !important;
+}
+
+.greedy-nav {
+  background: transparent !important;
+}
+
+.greedy-nav a {
+  background: transparent !important;
+  color: white !important;
+  font-size: 0.9rem !important;
+}
+
+.greedy-nav a:hover {
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+
+.greedy-nav__toggle {
+  background: transparent !important;
+  color: white !important;
+  font-size: 0.9rem !important;
+}
+
+.page__header {
+  background: transparent !important;
+}
+
+.masthead .container,
+.masthead .wrapper {
+  background: transparent !important;
+}
