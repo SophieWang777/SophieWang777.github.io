@@ -39,7 +39,7 @@ My research interests include: **automatic speech recognition**(ASR), **speech e
 I feel truly grateful for the support from my teachers and mentors, and I’m always excited to connect with people who share similar research passions. I’m eager to explore collaborative research projects and remote internship opportunities where I can contribute and learn.
 {: style="font-size: 18px; margin-bottom: 15px;"}
 
-If you’re open to communication or collaboration, feel free to add me on WeChat💬 - echooooooo000, or reach out via my [email📮](sophieeew777@gmail.com). I’d love to explore the possibilities together!
+If you’re open to communication or collaboration, feel free to add me on WeChat💬 - echooooooo000, or reach out via my [email📮](mailto:sophieeew777@gmail.com). I’d love to explore the possibilities together!
 {: style="font-size: 18px; margin-bottom: 45px;"}
 
 
@@ -51,18 +51,30 @@ If you’re open to communication or collaboration, feel free to add me on WeCha
 
 
 # 📖 Education
-- *2023.09 - present*
- <img src="/images/uestc_logo.png" alt="UESTC Logo" width="120" style="margin-bottom: 1em;">
-   {: style="font-size: 18px; margin-bottom: 2.5px;"}
-  Communication Engineering, Glasgow College, UESTC
-{: style="font-size: 18px; margin-bottom: 15px;"}
-  
-- *2025.02*
- <img src="/images/cambridge_logo.png" alt="Cam Logo" width="120" style="margin-bottom: 1em;">
-   {: style="font-size: 18px; margin-bottom: 2.5px;"}
-  Department of Computer Science and Technology, Cambridge University
-{: style="font-size: 18px; margin-bottom: 45px;"}
-  
+
+<!-- 教育经历 1：UESTC + UofG -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2em;">
+  <div style="max-width: 80%;">
+    <div style="font-size: 18px;"><strong><em>2023.09 - present</em></strong></div>
+    <div style="font-size: 18px;">Communication Engineering, Glasgow College, UESTC & University of Glasgow</div>
+  </div>
+  <div style="display: flex; gap: 8px;">
+    <img src="/images/uestc_logo.png" alt="UESTC Logo" width="42" style="border-radius: 50%;">
+    <img src="/images/uofg_logo.png" alt="UofG Logo" width="42" style="border-radius: 50%;">
+  </div>
+</div>
+
+<!-- 教育经历 2：Cambridge -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2.5em;">
+  <div style="max-width: 80%;">
+    <div style="font-size: 18px;"><strong><em>2025.02</em></strong></div>
+    <div style="font-size: 18px;">Department of Computer Science and Technology, Cambridge University</div>
+  </div>
+  <div>
+    <img src="/images/cambridge_logo.png" alt="Cambridge Logo" width="42" style="border-radius: 50%;">
+  </div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024.10*
