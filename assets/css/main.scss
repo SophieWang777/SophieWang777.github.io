@@ -115,3 +115,9 @@ body {
   background-repeat: no-repeat; /* 不重复 */
   background-position: center;  /* 居中显示 */
 }
+
+.author__location i,
+.author__location svg {
+  color: white !important;
+}
+
