@@ -28,9 +28,10 @@ I am Yan Wang (Chinese name: 王琰), you can call me Sophie. I am currently a t
 My research interests include: **automatic speech recognition**(ASR), **speech emotion recognition and analysis**, **multimodal AI**, **reinforcement learning**, **image processing**, etc.  
 {: style="font-size: 18px; margin-bottom: 15px;"}
 
-Recently, my focus falls in:
-1. Attention-based models for large vocabulary speech recognition
-2. Applications of deep learning models in RADAR
+<span style="font-size: 18px;">Recently, my focus falls in:</span>
+
+1. Attention-based models for large vocabulary speech recognition  
+2. Applications of deep learning models in RADAR  
 {: style="font-size: 18px; margin-bottom: 45px;"}
 
 
