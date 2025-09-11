@@ -115,30 +115,3 @@ body {
   background-repeat: no-repeat; /* 不重复 */
   background-position: center;  /* 居中显示 */
 }
-
-/* 只修改正文内容颜色，不影响侧边栏 */
-.page__content {
-  color: white; /* 正文文字变白 */
-}
-
-/* 正文内的超链接设置为黄色 */
-.page__content a {
-  color: #FFD700; /* 黄色链接 */
-}
-
-/* 悬停时更亮一些 */
-.page__content a:hover {
-  color: #FFF8DC;
-  /* text-decoration: underline; 可选：加下划线 */
-}
-/* Email 链接特殊处理 */
-a[href^="mailto:"] {
-  color: white !important;
-  text-decoration: none !important;
-}
-
-a[href^="mailto:"]:hover {
-  color: rgba(255, 255, 255, 0.8) !important;
-  text-decoration: none !important;
-}
-
