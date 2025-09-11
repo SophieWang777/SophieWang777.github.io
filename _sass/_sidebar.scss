@@ -81,27 +81,31 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  width: 90px;
 
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
   }
+   
+  box-shadow: 0 0 10px rgba(255, 223, 102, 0.5);
 
   img {
-    max-width: 175px;
-    min-width: 75px;
-    border-radius: 50%;
+    max-width: 150px;   /* 控制最大宽度 */
+    min-width: 50px;
+    border-radius: 50%; /* 圆形头像 */
+    padding: 6px;        /* 内边距 */
+    border: 3.6px solid #FFDF66; /* 金黄色边框 */
+    background: transparent;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 6px;
+      border: 3.6px solid #FFDF66;
     }
   }
 }
+
 
 .author__content {
   display: table-cell;
@@ -266,5 +270,22 @@
   }
   @include breakpoint($large) {
     display: none;
+  }
+}
+
+.sidebar,
+.author__name,
+.author__bio,
+.author__urls,
+.author__urls_sm {
+  color: #fff;
+}
+
+.author__urls a,
+.author__urls_sm a {
+  color: #FFD700 !important;
+
+  &:hover {
+    color: #FFEA70 !important;
   }
 }
