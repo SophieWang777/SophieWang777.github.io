@@ -52,6 +52,8 @@ If you’re open to communication or collaboration, feel free to add me on WeCha
 
 # 📖 Education
 
+<div style="padding-left: 1.5em;">
+
 <!-- 教育经历 1：UESTC + UofG -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2em;">
   <div style="max-width: 80%;">
@@ -71,8 +73,10 @@ If you’re open to communication or collaboration, feel free to add me on WeCha
     <div style="font-size: 18px;">Department of Computer Science and Technology, Cambridge University</div>
   </div>
   <div>
-    <img src="/images/cambridge_logo.PNG" alt="Cambridge Logo" width="48" style="border-radius: 8px; box-shadow: 0 0 4px rgba(0,0,0,0.15);">
+    <img src="/images/cambridge_logo.PNG" alt="Cambridge Logo" width="36" style="border-radius: 8px; box-shadow: 0 0 4px rgba(0,0,0,0.15);">
   </div>
+</div>
+
 </div>
 
 
