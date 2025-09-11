@@ -32,6 +32,14 @@ Recently, my focus falls in:
 2. Applications of deep learning models in RADAR
 {: style="margin-bottom: 45px;"}
 
+# 📬 Get In Touch！
+I feel truly grateful for the support from my teachers and mentors, and I’m always excited to connect with people who share similar research passions. I’m eager to explore collaborative research projects and remote internship opportunities where I can contribute and learn.
+If you’re open to communication or collaboration, feel free to add me on [WeChat💬](echooooooo000), or reach out via my [email📮](sophieeew777@gmail.com). I’d love to explore the possibilities together!
+
+
+# 🔥 News
+- *2025.8.26*: &nbsp;🎉🎉 I'm selected as **GTA** (Glasgow Teaching Assistant) of Introductory Programming ([UESTC1005](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005))
+{: style="margin-bottom: 45px;"}
 
 
 # 📖 Education
@@ -39,11 +47,6 @@ Recently, my focus falls in:
 - *2025.02*, Department of Computer Science and Technology, Cambridge University
 {: style="margin-bottom: 45px;"}
   
-  
-
-# 🔥 News
-- *2025.8.26*: &nbsp;🎉🎉 I'm selected as **GTA** (Glasgow Teaching Assistant) of Introductory Programming ([UESTC1005](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005))
-{: style="margin-bottom: 45px;"}
 
 # 🎖 Honors and Awards
 - *2021.10* 
@@ -53,10 +56,14 @@ Recently, my focus falls in:
 
 # 🛠 Services
 - *2023.09-2024.06* Student Union of Glasgow College, Outreaching Department
-  {: style="margin-bottom: 45px;"}
+{: style="margin-bottom: 45px;"}
+
 
 # 💬 Invited Talks
 To be discovered :)
+{: style="margin-bottom: 45px;"}
+
 
 # 💻 Internships
 To be discovered :)
+{: style="margin-bottom: 45px;"}
