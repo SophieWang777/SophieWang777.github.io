@@ -19,7 +19,7 @@ redirect_from:
 
 
 Hi There! Welcome to my homepage :)  
-{: style="font-size: 40px; margin-bottom: 20px;"}
+{: style="font-size: 36px; margin-bottom: 20px;"}
 
 I am Yan Wang (Chinese name: 王琰), you can call me Sophie. I am currently a third-year undergraduate student at [Glasgow College](https://www.gla.uestc.edu.cn/english/Home.htm), [UESTC](https://en.uestc.edu.cn/). I also used to be studying at [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), [Cambridge University](https://www.cam.ac.uk/) (*2025.02*) under the guidance of [Prof. Nicholas D. Lane](https://www.cst.cam.ac.uk/people/ndl32).  
 {: style="margin-bottom: 20px;"}
@@ -37,7 +37,7 @@ Recently, my focus falls in:
 I feel truly grateful for the support from my teachers and mentors, and I’m always excited to connect with people who share similar research passions. I’m eager to explore collaborative research projects and remote internship opportunities where I can contribute and learn.
 {: style="margin-bottom: 20px;"}
 
-If you’re open to communication or collaboration, feel free to add me on [WeChat💬](echooooooo000), or reach out via my [email📮](sophieeew777@gmail.com). I’d love to explore the possibilities together!
+If you’re open to communication or collaboration, feel free to add me on WeChat💬 - echooooooo000, or reach out via my [email📮](sophieeew777@gmail.com). I’d love to explore the possibilities together!
 {: style="margin-bottom: 45px;"}
 
 
