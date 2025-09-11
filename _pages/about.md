@@ -34,7 +34,7 @@ Recently, my focus falls in:
 
 
 
-# 📖 Educations
+# 📖 Education
 - *2023.09 - present*, Communication Engineering, Glasgow College, UESTC
 - *2025.02*, Department of Computer Science and Technology, Cambridge University
 {: style="margin-bottom: 45px;"}
