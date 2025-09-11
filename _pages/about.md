@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-{margin-top: 25px;"}
+
 
 Hi There! Welcome to my homepage :)  
 {: style="font-size: 36px; font-family: 'PT Serif Caption', serif; margin-bottom: 15px;"}
@@ -29,7 +29,6 @@ My research interests include: **automatic speech recognition**(ASR), **speech e
 {: style="font-size: 18px; margin-bottom: 15px;"}
 
 Recently, my focus falls in:
-{: style="font-size: 18px}
 1. Attention-based models for large vocabulary speech recognition
 2. Applications of deep learning models in RADAR
 {: style="font-size: 18px; margin-bottom: 45px;"}
