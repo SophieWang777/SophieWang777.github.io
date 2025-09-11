@@ -1,7 +1,6 @@
 /* ==========================================================================
    MASTHEAD
    ========================================================================== */
-
 .masthead {
   position: sticky;
   top: 0;
@@ -9,38 +8,35 @@
   background: rgba(135, 206, 250, 0.35); /* 半透明蓝色 */
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  border-bottom: 1px solid $border-color;
+  border-bottom: 0.5px solid $border-color; /* 将边框从1px改为0.5px，使分界线更细 */
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
-
   &__inner-wrap {
     @include container;
     @include clearfix;
     padding: .5em;
     font-family: $sans-serif-narrow;
-
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
-
     nav {
       z-index: 10;
     }
-
     a {
       text-decoration: none;
       color: #7a7d7d; /* 灰色字体 */
+      background: transparent; /* 确保链接背景透明 */
       transition: color 0.2s ease;
       
       &:hover {
         color: #a0a0a0; /* 悬停时更亮 */
+        background: transparent; /* 悬停时也保持背景透明 */
       }
     }
   }
 }
-
 .masthead__menu {
   ul {
     margin: 0;
@@ -49,21 +45,30 @@
     list-style-type: none;
   }
 }
-
 .masthead__menu-home-item {
   @include breakpoint($medium) {
     display: block !important;
   }
   display: none !important;
 }
-
 .masthead__menu-item {
   display: block;
   list-style-type: none;
   white-space: nowrap;
-
+  background: transparent; /* 确保菜单项背景透明 */
+  
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+  
+  a {
+    background: transparent !important; /* 强制确保链接背景透明 */
+    
+    &:visited,
+    &:focus,
+    &:active {
+      background: transparent !important; /* 确保所有状态下背景都透明 */
+    }
   }
 }
