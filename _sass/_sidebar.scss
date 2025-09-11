@@ -296,3 +296,35 @@ a[href^="mailto:"]:hover {
   color: rgba(255, 255, 255, 0.8) !important;
   text-decoration: none !important;
 }
+
+/* 确保姓名在所有屏幕上都显示 */
+.author__name {
+  margin: 0 0 0.5em 0;
+  font-size: 1.5em !important; /* 确保字体大小合适 */
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+/* 确保简介在所有屏幕上都显示 */
+.author__bio {
+  margin: 0 0 1em 0;
+  font-size: 1em !important;
+  
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+/* 响应式标语显示 - 确保在所有设备上都可见 */
+.site-tagline {
+  font-style: normal; /* 改为normal，因为Unicode字符本身就是斜体 */
+  margin: 0.8em 0 1.2em 0; /* 调整上下边距 */
+  display: block !important;
+  font-size: 1em; /* 稍微增大字体 */
+  opacity: 1; /* 增加透明度 */
+  line-height: 1.3; /* 调整行高 */
+}
