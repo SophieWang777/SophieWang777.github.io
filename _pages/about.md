@@ -19,55 +19,72 @@ redirect_from:
 
 
 Hi There! Welcome to my homepage :)  
-{: style="font-size: 36px; margin-bottom: 20px;"}
+{: style="font-size: 32px; font-family: 'PT Serif Caption', serif; margin-bottom: 15px;"}
 
 I am Yan Wang (Chinese name: 王琰), you can call me Sophie. I am currently a third-year undergraduate student at [Glasgow College](https://www.gla.uestc.edu.cn/english/Home.htm), [UESTC](https://en.uestc.edu.cn/). I also used to be studying at [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), [Cambridge University](https://www.cam.ac.uk/) (*2025.02*) under the guidance of [Prof. Nicholas D. Lane](https://www.cst.cam.ac.uk/people/ndl32).  
-{: style="margin-bottom: 20px;"}
+{: style="font-size: 18px; margin-bottom: 15px;"}
 
 My research interests include: **automatic speech recognition**(ASR), **speech emotion recognition and analysis**, **multimodal AI**, **reinforcement learning**, **image processing**, etc.  
-{: style="margin-bottom: 20px;"}
+{: style="font-size: 18px; margin-bottom: 15px;"}
 
 Recently, my focus falls in:
 1. Attention-based models for large vocabulary speech recognition
 2. Applications of deep learning models in RADAR
-{: style="margin-bottom: 45px;"}
+{: style="font-size: 18px; margin-bottom: 35px;"}
 
 
 # 📬 Get In Touch！
 I feel truly grateful for the support from my teachers and mentors, and I’m always excited to connect with people who share similar research passions. I’m eager to explore collaborative research projects and remote internship opportunities where I can contribute and learn.
-{: style="margin-bottom: 20px;"}
+{: style="font-size: 18px; margin-bottom: 15px;"}
 
 If you’re open to communication or collaboration, feel free to add me on WeChat💬 - echooooooo000, or reach out via my [email📮](sophieeew777@gmail.com). I’d love to explore the possibilities together!
-{: style="margin-bottom: 45px;"}
+{: style="font-size: 18px; margin-bottom: 35px;"}
 
 
 # 🔥 News
 - *2025.8.26*: &nbsp;🎉🎉 I'm selected as **GTA** (Glasgow Teaching Assistant) of Introductory Programming ([UESTC1005](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005))
-{: style="margin-bottom: 45px;"}
+{: style="font-size: 18px; margin-bottom: 35px;"}
 
 
 # 📖 Education
-- *2023.09 - present*, Communication Engineering, Glasgow College, UESTC
-- *2025.02*, Department of Computer Science and Technology, Cambridge University
-{: style="margin-bottom: 45px;"}
+- *2023.09 - present*
+ <img src="/images/uestc_logo.png" alt="UESTC Logo" width="120" style="margin-bottom: 1em;">
+  Communication Engineering, Glasgow College, UESTC
+{: style="font-size: 18px; margin-bottom: 15px;"}
+  
+- *2025.02*
+ <img src="/images/cambridge_logo.png" alt="Cam Logo" width="120" style="margin-bottom: 1em;">
+  Department of Computer Science and Technology, Cambridge University
+{: style="font-size: 18px; margin-bottom: 35px;"}
   
 
 # 🎖 Honors and Awards
-- *2021.10* 
-- *2021.09*
-{: style="margin-bottom: 45px;"}
+- *2024.10*  Outstanding Student Scholarship, Glasgow College, UESTC
+{: style="font-size: 18px; margin-bottom: 15px;"}
+   
+- *2025.06*  Excellence Award for Short-Term Academic Exchange, Glasgow College, UESTC
+{: style="font-size: 18px; margin-bottom: 35px;"}
    
 
 # 🛠 Services
-- *2023.09-2024.06* Student Union of Glasgow College, Outreaching Department
-{: style="margin-bottom: 45px;"}
+- *2023.09-2025.06*
+  Secretariat minister, Student Association Union, UESTC 
+{: style="font-size: 18px; margin-bottom: 15px;"}
+
+- *2025.5.20*
+  Service to The University of Melbourne, 2025 Meet Melbourne in China, Chengdu Stop
+  {: style="font-size: 18px; margin-bottom: 15px;"}
+  
+- *2023.09-2024.06*
+  External Relations Department, Student Union of Glasgow College 
+{: style="font-size: 18px; margin-bottom: 35px;"}
 
 
 # 💬 Invited Talks
 To be discovered :)
-{: style="margin-bottom: 45px;"}
+{: style="font-size: 18px; margin-bottom: 35px;"}
 
 
 # 💻 Internships
 To be discovered :)
-{: style="margin-bottom: 45px;"}
+{: style="font-size: 18px; margin-bottom: 35px;"}
