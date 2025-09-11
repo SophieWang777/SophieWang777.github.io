@@ -1,70 +1,69 @@
-/* 主要的导航栏容器 */
+/* ==========================================================================
+   MASTHEAD
+   ========================================================================== */
+
 .masthead {
   position: sticky;
   top: 0;
-  z-index: 1000;
-  background: transparent !important;
-  backdrop-filter: none;
-  -webkit-backdrop-filter: none;
-  box-shadow: none;
-  border-bottom: none;
-  padding: 0.35em 0;
-  font-size: 0.9rem;
-}
+  z-index: 20;
+  background: rgba(135, 206, 250, 0.35); /* 半透明蓝色 */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid $border-color;
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
 
-.masthead__inner-wrap {
-  background: transparent !important;
+  &__inner-wrap {
+    @include container;
+    @include clearfix;
+    padding: .5em;
+    font-family: $sans-serif-narrow;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
+      color: #7a7d7d; /* 灰色字体 */
+      transition: color 0.2s ease;
+      
+      &:hover {
+        color: #a0a0a0; /* 悬停时更亮 */
+      }
+    }
+  }
 }
 
 .masthead__menu {
-  background: transparent !important;
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+  }
+}
+
+.masthead__menu-home-item {
+  @include breakpoint($medium) {
+    display: block !important;
+  }
+  display: none !important;
 }
 
 .masthead__menu-item {
-  background: transparent !important;
-}
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
 
-.masthead__menu-item a {
-  background: transparent !important;
-  color: White !important;
-  font-size: 0.9rem !important;
-}
-
-.masthead__menu-item a:hover {
-  color: rgba(255, 255, 255, 0.25) !important;
-}
-
-.masthead .site-title,
-.masthead .site-subtitle {
-  background: transparent !important;
-  color: white !important;
-}
-
-.greedy-nav {
-  background: transparent !important;
-}
-
-.greedy-nav a {
-  background: transparent !important;
-  color: white !important;
-  font-size: 0.9rem !important;
-}
-
-.greedy-nav a:hover {
-  color: rgba(255, 255, 255, 0.75) !important;
-}
-
-.greedy-nav__toggle {
-  background: transparent !important;
-  color: white !important;
-  font-size: 0.9rem !important;
-}
-
-.page__header {
-  background: transparent !important;
-}
-
-.masthead .container,
-.masthead .wrapper {
-  background: transparent !important;
+  &--lg {
+    padding-right: 2em;
+    font-weight: 700;
+  }
 }
