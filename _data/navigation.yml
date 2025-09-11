@@ -3,12 +3,15 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Education"
-    url: "/#-education"
+  - title: "Contact"
+    url: "/#-get-in-touch"
 
   - title: "News"
     url: "/#-news"
-
+    
+  - title: "Education"
+    url: "/#-education"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
