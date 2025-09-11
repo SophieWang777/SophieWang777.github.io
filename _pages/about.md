@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 {margin-top: 25px;"}
+
 Hi There! Welcome to my homepage :)  
 {: style="font-size: 36px; font-family: 'PT Serif Caption', serif; margin-bottom: 15px;"}
 
@@ -27,7 +28,8 @@ I am Yan Wang (Chinese name: 王琰), you can call me Sophie. I am currently a t
 My research interests include: **automatic speech recognition**(ASR), **speech emotion recognition and analysis**, **multimodal AI**, **reinforcement learning**, **image processing**, etc.  
 {: style="font-size: 18px; margin-bottom: 15px;"}
 
-Recently, my focus falls in:{: style="font-size: 18px}
+Recently, my focus falls in:
+{: style="font-size: 18px}
 1. Attention-based models for large vocabulary speech recognition
 2. Applications of deep learning models in RADAR
 {: style="font-size: 18px; margin-bottom: 45px;"}
@@ -42,40 +44,51 @@ If you’re open to communication or collaboration, feel free to add me on WeCha
 
 
 # 🔥 News
-- *2025.8.26*: &nbsp;🎉🎉 I'm selected as **GTA** (Glasgow Teaching Assistant) of Introductory Programming ([UESTC1005](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005))
+- *2025.8.26*
+  {: style="font-size: 18px; margin-bottom: 2.5px;"}
+  &nbsp;🎉🎉 I'm selected as **GTA** (Glasgow Teaching Assistant) of Introductory Programming ([UESTC1005](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005))
 {: style="font-size: 18px; margin-bottom: 45px;"}
 
 
 # 📖 Education
 - *2023.09 - present*
  <img src="/images/uestc_logo.png" alt="UESTC Logo" width="120" style="margin-bottom: 1em;">
+   {: style="font-size: 18px; margin-bottom: 2.5px;"}
   Communication Engineering, Glasgow College, UESTC
 {: style="font-size: 18px; margin-bottom: 15px;"}
   
 - *2025.02*
  <img src="/images/cambridge_logo.png" alt="Cam Logo" width="120" style="margin-bottom: 1em;">
+   {: style="font-size: 18px; margin-bottom: 2.5px;"}
   Department of Computer Science and Technology, Cambridge University
 {: style="font-size: 18px; margin-bottom: 45px;"}
   
 
 # 🎖 Honors and Awards
-- *2024.10*  Outstanding Student Scholarship, Glasgow College, UESTC
+- *2024.10*
+  {: style="font-size: 18px; margin-bottom: 2.5px;"}
+  Outstanding Student Scholarship, Glasgow College, UESTC
 {: style="font-size: 18px; margin-bottom: 15px;"}
    
-- *2025.06*  Excellence Award for Short-Term Academic Exchange, Glasgow College, UESTC
+- *2025.06*
+  {: style="font-size: 18px; margin-bottom: 2.5px;"}
+  Excellence Award for Short-Term Academic Exchange, Glasgow College, UESTC
 {: style="font-size: 18px; margin-bottom: 45px;"}
    
 
 # 🛠 Services
 - *2023.09-2025.06*
+  {: style="font-size: 18px; margin-bottom: 2.5px;"}
   Secretariat minister, Student Association Union, UESTC 
 {: style="font-size: 18px; margin-bottom: 15px;"}
 
 - *2025.5.20*
+  {: style="font-size: 18px; margin-bottom: 2.5px;"}
   Service to The University of Melbourne, 2025 Meet Melbourne in China, Chengdu Stop
   {: style="font-size: 18px; margin-bottom: 15px;"}
   
 - *2023.09-2024.06*
+  {: style="font-size: 18px; margin-bottom: 2.5px;"}
   External Relations Department, Student Union of Glasgow College 
 {: style="font-size: 18px; margin-bottom: 45px;"}
 
