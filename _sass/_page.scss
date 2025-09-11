@@ -410,3 +410,16 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.page__content {
+  color: #fff !important;  // 正文文字颜色为白色
+
+  a {
+    color: #FFD700 !important; // 链接为黄色
+    text-decoration: underline;
+
+    &:hover {
+      color: #FFEA70 !important; // 悬停时更亮
+    }
+  }
+}
