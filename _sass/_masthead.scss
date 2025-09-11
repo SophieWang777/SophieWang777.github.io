@@ -5,18 +5,19 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: white;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
-  z-index: 20;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.35); /* 纯白，35% 透明 */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 0.75em 0; /* 高度提升一半 */
+  font-size: 1.75rem; /* 字体放大 */
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: .5em;
+    padding: .75em; /* 跟随高度 */
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -34,7 +35,6 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -59,6 +59,15 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  a {
+    color: #d3d3d3 !important; /* 链接文字浅灰 */
+    font-size: 1.75rem !important;
+    text-decoration: none !important;
+
+    &:hover {
+      color: #e0e0e0 !important; /* 悬停更亮 */
+      text-decoration: underline !important;
+    }
+  }
 }
-
-
