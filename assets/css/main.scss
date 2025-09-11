@@ -107,3 +107,11 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.body {
+  background-image: url('/images/backgroundlarge.png'); /* 图片路径 */
+  background-size: cover;       /* 保持全屏铺满 */
+  background-attachment: fixed; /* 页面滚动时背景固定 */
+  background-repeat: no-repeat; /* 不重复 */
+  background-position: center;  /* 居中显示 */
+}
