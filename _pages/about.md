@@ -31,7 +31,7 @@ My research interests include: **automatic speech recognition**(ASR), **speech e
 <span style="font-size: 18px;">Recently, my focus falls in:</span>
 
 1. Attention-based models for large vocabulary speech recognition  
-2. Applications of deep learning models in RADAR  
+2. Applications of deep learning models in RADAR detection
 {: style="font-size: 18px; margin-bottom: 45px;"}
 
 
