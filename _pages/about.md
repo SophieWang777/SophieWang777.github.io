@@ -27,6 +27,8 @@ I am Yan Wang (Chinese name: 王琰), you can call me Sophie. I am currently a t
 
 
 
+
+
 # 📬 Get In Touch！
 I feel truly grateful for the support from my teachers and mentors, and I’m always excited to connect with people who share similar research passions. I’m eager to explore collaborative research projects and remote internship opportunities where I can contribute and learn.
 {: style="font-size: 18px; margin-bottom: 15px;"}
