@@ -33,7 +33,7 @@ I am Yan Wang (Chinese name: 王琰), you can call me Sophie. I am currently a t
 I feel truly grateful for the support from my teachers and mentors, and I’m always excited to connect with people who share similar research passions. I’m eager to explore collaborative research projects and remote internship opportunities where I can contribute and learn.
 {: style="font-size: 18px; margin-bottom: 15px;"}
 
-If you’re open to communication or collaboration, feel free to add me on WeChat💬 - echooooooo777, or reach out via my email📮- sophieeew777@gmail.com. I’d love to explore the possibilities together!
+If you’re open to communication or collaboration, feel free to reach out via my email📮- sophieeew777@gmail.com. I’d love to explore the possibilities together!
 {: style="font-size: 18px; margin-bottom: 45px;"}
 
 
