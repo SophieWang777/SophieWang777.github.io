@@ -25,14 +25,6 @@ Hi There! Welcome to my homepage :)
 I am Yan Wang (Chinese name: 王琰), you can call me Sophie. I am currently a third-year undergraduate student at [Glasgow College](https://www.gla.uestc.edu.cn/english/Home.htm), [UESTC](https://en.uestc.edu.cn/). I also used to be studying at [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), [Cambridge University](https://www.cam.ac.uk/) (*2025.02*) under the guidance of [Prof. Nicholas D. Lane](https://www.cst.cam.ac.uk/people/ndl32).  
 {: style="font-size: 18px; margin-bottom: 15px;"}
 
-My research interests include: **automatic speech recognition**(ASR), **speech recognition and analysis**, **multimodal AI**, **reinforcement learning**, **image processing**, etc.  
-{: style="font-size: 18px; margin-bottom: 15px;"}
-
-<span style="font-size: 18px;">Recently, my focus falls in:</span>
-
-1. Attention-based models for large vocabulary speech recognition  
-2. Applications of deep learning models in RADAR detection
-{: style="font-size: 18px; margin-bottom: 45px;"}
 
 
 # 📬 Get In Touch！
